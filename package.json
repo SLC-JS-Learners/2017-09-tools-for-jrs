@@ -1,0 +1,11 @@
+{
+  "name": "tools-for-junior-devs",
+  "version": "0.0.1",
+  "description": "Repo for metasean's presentation to the SLC JS Learners / SLC Free Code Camp group on \"Useful Tools for Junior Devs\" September 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "metasean",
+  "license": "UNLICENSED"
+}
